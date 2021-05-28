@@ -1,0 +1,10 @@
+Zadanie 1
+1
+d.
+i. Taxonomy ID
+ii. Theobroma cacao
+iii. 76.601
+iv. chocolate, cocoa
+5.
+alt D zlicza wszystkie wyrazy, linie, znaki
+ctrl c wskazuje konkretne miejsce kursora, linię w której się znaduje, kolumnę, oraz znak od początku.
